@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello I'm HaLim
+I'm a Full stack developer, I care about performance and quality and User Experience so much, I'm continuously learning new things, my goal is doing crazy things that would make people's lives much easier and more comfortable
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=halimthemes&&show_icons=true&title_color=1b3346&icon_color=ec2273&text_color=1b3346&bg_color=f1f4f6">
 
 <!--
 **halimthemes/halimthemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
